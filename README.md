@@ -25,9 +25,20 @@ This project contains a behavior pack and a resource pack for Minecraft Bedrock 
 2. **Features**:
    - **GUI Enhancements**: Players will see a form with server rules and can select their preferred language.
    - **Anti-Cheat**: Detects and logs suspicious player behavior, such as abnormally high jumps.
+   - **Enhanced Anti-Cheat**:
+     - Detects abnormally high jumps, teleportation, and speed hacks.
+     - Improved X-ray detection with calculations for hidden blocks.
+     - Staff members can view an in-game log of suspicious activity using the `!stafflog` command.
+
+   - **Enhanced GUI**:
+     - Players must confirm acceptance of server rules.
+     - Dropdowns for selecting preferred language and game mode.
 
 3. **Using the Function**:
    - The function defined in `functions/example.mcfunction` can be executed in-game by using the command `/function example`.
+
+3. **Staff Log**:
+   - Staff members with the `staff` tag can use the `!stafflog` command in chat to view a log of suspicious activity detected by the anti-cheat system.
 
 ## Troubleshooting
 
