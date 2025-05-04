@@ -28,7 +28,7 @@ This project contains a behavior pack and a resource pack for Minecraft Bedrock 
    - **Enhanced Anti-Cheat**:
      - Detects abnormally high jumps, teleportation, and speed hacks.
      - Improved X-ray detection with calculations for hidden blocks.
-     - Staff members can view an in-game log of suspicious activity using the `!stafflog` command.
+     - Staff members can view an in-game log of suspicious activity using the `/stafflog` command.
 
    - **Enhanced GUI**:
      - Players must confirm acceptance of server rules.
