@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "texture_data": {
+    "terrain": {
+      "textures": [
+        "textures/blocks/grass",
+        "textures/blocks/grass_side",
+        "textures/blocks/dirt",
+        "textures/blocks/stone"
+      ]
+    }
+  }
+}

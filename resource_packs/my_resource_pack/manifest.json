@@ -1,0 +1,18 @@
+{
+  "format_version": "1.10",
+  "header": {
+    "description": "My Resource Pack",
+    "name": "My Resource Pack",
+    "uuid": "123e4567-e89b-12d3-a456-426614174000",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "My Resource Pack",
+      "type": "data",
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "version": [1, 0, 0]
+    }
+  ]
+}

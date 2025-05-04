@@ -1,0 +1,28 @@
+{
+  "format_version": "1.10",
+  "header": {
+    "description": "My Behavior Pack",
+    "name": "My Behavior Pack",
+    "uuid": "123e4567-e89b-12d3-a456-426614174002",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "My Behavior Pack",
+      "type": "data",
+      "uuid": "123e4567-e89b-12d3-a456-426614174003",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.1.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.1.0"
+    }
+  ]
+}
