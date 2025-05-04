@@ -38,7 +38,7 @@ This project contains a behavior pack and a resource pack for Minecraft Bedrock 
    - The function defined in `functions/example.mcfunction` can be executed in-game by using the command `/function example`.
 
 3. **Staff Log**:
-   - Staff members with the `staff` tag can use the `!stafflog` command in chat to view a log of suspicious activity detected by the anti-cheat system.
+   - Staff members with the `staff` tag can use the `/stafflog` command in chat to view a log of suspicious activity detected by the anti-cheat system.
 
 ## Troubleshooting
 
