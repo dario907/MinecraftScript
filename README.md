@@ -22,7 +22,11 @@ This project contains a behavior pack and a resource pack for Minecraft Bedrock 
    - Under the "Storage" section, ensure that the packs are listed.
    - Activate the behavior pack and resource pack in your world settings.
 
-2. **Using the Function**:
+2. **Features**:
+   - **GUI Enhancements**: Players will see a form with server rules and can select their preferred language.
+   - **Anti-Cheat**: Detects and logs suspicious player behavior, such as abnormally high jumps.
+
+3. **Using the Function**:
    - The function defined in `functions/example.mcfunction` can be executed in-game by using the command `/function example`.
 
 ## Troubleshooting

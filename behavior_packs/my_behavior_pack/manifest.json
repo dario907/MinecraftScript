@@ -13,6 +13,13 @@
       "type": "data",
       "uuid": "123e4567-e89b-12d3-a456-426614174003",
       "version": [1, 0, 0]
+    },
+    {
+      "description": "Anti-Cheat Script",
+      "type": "script",
+      "uuid": "123e4567-e89b-12d3-a456-426614174004",
+      "version": [1, 0, 0],
+      "entry": "scripts/anti_cheat.js"
     }
   ],
   "dependencies": [
